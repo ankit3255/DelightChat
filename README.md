@@ -1,4 +1,4 @@
-# DelightChat
+# Weather app
 
 This weather application is built using Django, requests and OpenWeatherMap, where users can get weather information by entering the city name
 
